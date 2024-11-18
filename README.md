@@ -1,0 +1,2 @@
+# Hotelreservierungssystem_Datenbank
+Datenbank für das Hotelreservierungssystem
